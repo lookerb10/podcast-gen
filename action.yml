@@ -1,4 +1,4 @@
-name: "Podcast Gen"
+name: "Podcast Gene"
 author: "Brandon Looker"
 description: "Generate a feed for a podcast from a YAML file"
 runs:
